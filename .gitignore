@@ -1,0 +1,6 @@
+# Ignore node modules
+node_modules/
+
+# Environment variables off for test in DevelopsToday
+# .env 
+# .env.*.local
